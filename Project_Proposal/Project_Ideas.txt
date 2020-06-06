@@ -1,0 +1,5 @@
+1. Adaptive closed-loop insulin delivery algorithm for insulin-dependent diabetics
+2. Predictive analysis of protests to predict aggressive behavior and aid in deescalation
+3. Analysis of biometric cues (vocal timbre and intensity, microexpressions, etc) for deception testing 
+4. Algorithm for removing bias from news articles using semantic analysis and NLP (could be adapted to a chrome extension or news app)
+5. An AI that plays an open-source video game
