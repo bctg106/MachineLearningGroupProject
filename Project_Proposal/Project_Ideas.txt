@@ -1,5 +1,18 @@
 1. Adaptive closed-loop insulin delivery algorithm for insulin-dependent diabetics
 2. Predictive analysis of protests to predict aggressive behavior and aid in deescalation
-3. Analysis of biometric cues (vocal timbre and intensity, microexpressions, etc) for deception testing 
+3. Analysis of biometric cues (vocal timbre and intensity, microexpressions, etc) for deception testing
+
+    //Speech Emotion Dataset
+    https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view
+    
 4. Algorithm for removing bias from news articles using semantic analysis and NLP (could be adapted to a chrome extension or news app)
+   
+   //Maybe detection of severity of bias. Correction of bias can get subjective and machine learning gets sloppy with language  
+   corrections. I've got some ideas on implementation of this though. 
+   
+   "Fake News" Dataset we could develop with.
+   https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
+   Similar project that uses tis dataset
+   https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+   
 5. An AI that plays an open-source video game
